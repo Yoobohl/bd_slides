@@ -14,11 +14,13 @@ hideInToc: true
 ---
 
 <style>
-/* 方正姚体 */
-/* FZYaoTi */
-
-
+  @font-face {
+    font-family: "FZYaoTi";
+    src: url("/fonts/FZYTK/FZYTK.subset.ttf") format("truetype");
+    font-style: normal;
+  }
 </style>
+
 
 # 新时代北斗精神
 
