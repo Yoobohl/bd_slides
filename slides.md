@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: http://www.beidou.gov.cn/xt/xtjs/201710/W020200903394218132018.jpg
+background: /images/image.png
 title: 新时代北斗精神
 titleTemplate: "%s"
 info: false
