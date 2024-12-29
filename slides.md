@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: /images/background.png
+background: /images/compressed/background.png
 title: 新时代北斗精神
 titleTemplate: "%s"
 info: false
@@ -78,7 +78,7 @@ layout: section
 
 ---
 layout: image
-image: /images/2stars_system_demo_success_conf.png
+image: /images/compressed/2stars_system_demo_success_conf.png
 ---
 
 <!--
@@ -124,7 +124,7 @@ image: /images/2stars_system_demo_success_conf.png
 
 ---
 layout: image
-image: images/beidou-1-launch.png
+image: /images/compressed/beidou-1-launch.png
 ---
 
 ---
@@ -160,14 +160,14 @@ hideInToc: true
 
 ---
 layout: image
-image: https://n.sinaimg.cn/sinacn21/120/w1440h1080/20180429/0ab2-fzvpatr2213045.jpg
+image: /images/compressed/wenchuan.jpg
 ---
 
 
 
 ---
 layout: image
-image: https://x0.ifengimg.com/ucms/2020_26/B97D148ABD47EE3AF6B9485114057DDDA7BAEB8A_w1080_h712.jpg
+image: /images/compressed/beidou_zhongduan.jpg
 ---
 
 <!--
