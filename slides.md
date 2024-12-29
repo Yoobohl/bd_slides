@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: /images/image.png
+background: /images/background.png
 title: 新时代北斗精神
 titleTemplate: "%s"
 info: false
